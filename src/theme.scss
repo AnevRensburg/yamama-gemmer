@@ -1,0 +1,36 @@
+/* Generated from sites/yamama-gemmer/site.json. */
+:root {
+  --bg: #fbfaf5;
+  --bg-alt: #eef4f1;
+  --surface: #ffffff;
+  --ink: #1f2d2b;
+  --muted: #5b6b68;
+  --line: #dfe8e4;
+  --accent: #2f7f78;
+  --accent-strong: #22615b;
+  --accent-ink: #ffffff;
+  --accent-soft: #dcefeb;
+  --accent-on-dark: #8fd0c8;
+  --dark: #1c2f2d;
+  --dark-ink: #fbfaf5;
+  --error: #b42318;
+  --font-display: 'Fraunces', Georgia, serif;
+  --font-body: 'DM Sans', 'Helvetica Neue', Arial, sans-serif;
+  --display-weight: 600;
+  --display-tracking: -0.01em;
+  --radius: 16px;
+  --button-radius: 999px;
+  --hero-position: center 50%;
+  --logo-ratio: 1;
+  --product-position: center;
+  --topbar-bg: #ffffff;
+  --topbar-ink: #1f2d2b;
+  --topbar-line: #dfe8e4;
+  --product-fit: cover;
+  --product-bg: #fbfaf5;
+  --logo-bg: #ffffff;
+  --logo-pad: 0.3rem 0.5rem;
+  --gutter: clamp(1rem, 4vw, 3rem);
+  --max-width: 1200px;
+  color-scheme: light;
+}
